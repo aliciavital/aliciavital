@@ -2,7 +2,7 @@ Oi! Eu sou a Alícia Vital 👋
 
 ✨ Front-end em construção
 
-🎓 Graduanda em Análise e Desenvolvimento de Sistemas💻 Formação técnica em Administração | ADS (Embarque Digital)🧠 Paixão por UX/UI e design minimalista
+🎓 Graduanda em Análise e Desenvolvimento de Sistemas💻 Formação técnica em Administração | ADS (Embarque Digital) 🧠 Paixão por UX/UI e design minimalista
 
 🚀 Residências Tecnológicas:
 
