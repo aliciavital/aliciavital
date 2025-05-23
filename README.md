@@ -4,11 +4,11 @@ Oi! Eu sou a Alícia Vital 👋
 
 🎓 Graduanda em Análise e Desenvolvimento de Sistemas💻 Formação técnica em Administração | ADS (Embarque Digital)🧠 Paixão por UX/UI e design minimalista
 
-🚀 Residências Tecnológicas
+🚀 Residências Tecnológicas:
 
-Extreme Digital – desenvolvimento com ServiceNow
+Extreme Digital – desenvolvimento com ServiceNow (Demoday)
 
-Banco do Brasil – criação de API de linhas de crédito
+Banco do Brasil – criação de API de linhas de crédito (Demoday)
 
 🎨 Desenvolvendo projetos que unem lógica e sensibilidade — do Figma ao código.
 
