@@ -39,6 +39,7 @@ Participação em residência tecnológica voltada para o desenvolvimento de uma
 * Figma
 * Cypress
 * Python
+* Javascript
 
 ---
 
