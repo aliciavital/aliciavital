@@ -1,34 +1,48 @@
-Oi! Eu sou a Alícia Vital 👋
+# Olá! Eu sou Alícia Vital 👋
 
-✨ Front-end em construção
+🎓 Graduada em **Análise e Desenvolvimento de Sistemas** | Programa **Embarque Digital**
+💻 Formação técnica em **Administração** 
 
-🎓 Graduanda em Análise e Desenvolvimento de Sistemas💻 Formação técnica em Administração | ADS (Embarque Digital) 🧠 Paixão por UX/UI e design minimalista
+Sou uma profissional em início de carreira na área de tecnologia, com interesse em **Qualidade de Software (QA)** e **análise de dados**. Gosto de entender como os sistemas funcionam além da interface, investigando comportamentos, identificando possíveis falhas e buscando melhorias que tornem os produtos digitais mais confiáveis e eficientes.
 
-🚀 Residências Tecnológicas:
+Tenho perfil analítico, curiosidade para aprender continuamente e atenção aos detalhes — características que considero essenciais para trabalhar com **testes, análise de sistemas e melhoria de produtos digitais**.
 
-Extreme Digital – desenvolvimento com ServiceNow (Demoday)
+Durante minha formação participei de **residências tecnológicas e projetos colaborativos**, onde tive a oportunidade de trabalhar com desenvolvimento, lógica de sistemas e resolução de problemas em equipe.
 
-Banco do Brasil – criação de API de linhas de crédito (Demoday)
+---
 
-🎨 Desenvolvendo projetos que unem lógica e sensibilidade — do Figma ao código.
+## 🚀 Experiências em projetos
 
-📍 Amante de comédias românticas dos anos 2000, café no fim da tarde e momentos que parecem trilha sonora.
+**Extreme Digital**
+Residência tecnológica com contato prático com a plataforma *ServiceNow*, explorando desenvolvimento e automação de processos. Projeto apresentado no **Demoday**.
 
-💬 "I like being the way I am." – Elle Woods
+**Banco do Brasil**
+Participação em residência tecnológica voltada para o desenvolvimento de uma **API relacionada a linhas de crédito**, trabalhando com lógica de negócio, modelagem e colaboração em equipe. Projeto apresentado no **Demoday**.
 
-💡 Tecnologias & Ferramentas:
+---
 
-HTML
+## 🧠 Áreas de interesse
 
-CSS
+* Qualidade de Software (QA)
+* Testes e análise de comportamento de aplicações
+* Análise de dados aplicada a sistemas
+* Melhoria contínua de produtos digitais
+* Experiência do usuário (UX)
 
-Figma
+---
 
-BR Modelo
+## 💡 Tecnologias & Ferramentas
 
-Vue.js
+* HTML
+* CSS
+* Vue.js
+* Figma
+* Cypress
+* Python
 
-📫 Me encontre por aí
+---
 
-LinkedIn | Portfólio (em breve)
+## 📫 Contato
 
+🔗 LinkedIn - www.linkedin.com/in/alicia-vital04
+🌐 Portfólio (em desenvolvimento)
